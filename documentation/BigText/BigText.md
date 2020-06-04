@@ -1,4 +1,4 @@
-namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigtext">BigText</a>
+namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/NAMESPACE.md">BigText</a>
 <h1 id="bigtext-class">BigText Class</h1>
 Provides the base class for big text as a sequence of strings.  Provides methods for customizing and animating text color. &#x1F34E;
 
