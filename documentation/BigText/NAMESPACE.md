@@ -6,7 +6,7 @@ The <a href="#bigconsole-bigtext-namespace">BigConsole.BigText</a> namespace pro
 <tbody>
 <tr>
 <td width="300">
-<h4><a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/BigText.md">BigText</a></h4>
+<h4><a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/BigText.md#bigtext-class">BigText</a></h4>
 </td>
 <td>
 Provides the base class for big text as a sequence of strings.
@@ -14,7 +14,7 @@ Provides the base class for big text as a sequence of strings.
 </tr>
 <tr>
 <td>
-<h4><a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigPrompt/BigPrompt.md">BigPrompt</a></h4>
+<h4><a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/BigPrompt.md#bigprompt-class">BigPrompt</a></h4>
 </td>
 <td>
 Represents a prompt separated by header and message.
