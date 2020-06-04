@@ -1,5 +1,5 @@
 namespace: <a href="https://www.youtube.com/watch?v=XiM1eJZzgEk">BigText</a>
-<h1>BigText Class</h1>
+<h1 id="bigtext-class">BigText Class</h1>
 Provides the base class for big text as a sequence of strings.  Provides methods for customizing and animating text color. &#x1F34E;
 
 <h2>Constructors</h2>
