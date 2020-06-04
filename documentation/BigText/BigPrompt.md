@@ -1,6 +1,6 @@
-namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigtext">BigConsole.BigText</a>
+namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/NAMESPACE.md">BigConsole.BigText</a>
 <br/><br/>
-inherits: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText.md#bigtext-class">BigText</a>
+inherits: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/BigText.md#bigtext-class">BigText</a>
 
 <h1 id="bigprompt-class">BigPrompt Class</h1>
 Represents a prompt separated by header and message.  Includes methods for synchronous animation. &#x1F34E;
@@ -17,7 +17,7 @@ BigPrompt(string header="This is a Header", string message="Message goes here.",
 </tr>
 <tr>
 <td>
-Initializes a new instance of the <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigPrompt.md#bigprompt-class">BigPrompt</a> class with default and optional parameters.
+Initializes a new instance of the <a href="#bigprompt-class">BigPrompt</a> class with default and optional parameters.
 </td>
 </tr>
 </tbody>
