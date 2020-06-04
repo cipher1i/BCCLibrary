@@ -1,9 +1,9 @@
-<h1>BigConsole</h1>
+# BigConsole
 .NET Core library providing multiple types for generating unique console applications.
 
-<h2>Namespaces</h2>
-<h3>BigText</h3>
+## Namespaces
+[comment]: # (include a folder for each namespace in the doc and link to each instead)
+### <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText.md#bigtext-class">BigText</a>
 The BigText namespace provides classes for manipulating text in a console environment.
-<br/>
-<img src="https://github.com/redrithm/BigConsole/blob/master/media/gifs/bigtext.gif"/>
-
+<br/><br/>
+![alt text](https://github.com/redrithm/BigConsole/blob/master/media/gifs/bigtext.gif)
