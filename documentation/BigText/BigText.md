@@ -1,3 +1,4 @@
+<a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigconsole">Back to README</a>
 namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/NAMESPACE.md#bigconsole-bigtext-namespace">BigConsole.BigText</a>
 <h1 id="bigtext-class">BigText Class</h1>
 Provides the base class for big text as a sequence of strings.  Provides methods for customizing and animating text color. &#x1F34E;
