@@ -1,4 +1,4 @@
-namespace: <a href="https://www.youtube.com/watch?v=XiM1eJZzgEk">BigText</a>
+namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigtext">BigText</a>
 <h1 id="bigtext-class">BigText Class</h1>
 Provides the base class for big text as a sequence of strings.  Provides methods for customizing and animating text color. &#x1F34E;
 
@@ -7,22 +7,22 @@ Provides the base class for big text as a sequence of strings.  Provides methods
 <tbody>
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=XiM1eJZzgEk">
+<a href="https://www.youtube.com/watch?v=vj-nuy82Tjw">
 BigText(params ConsoleColor[] colors)
 </a>
 </td>
 <td>
-Initializes a new instance of the <see cref="BigText"/> class with optional parameters for customizing the color wheel.
+  Initializes a new instance of the <a href="#bigtext-class">BigText</a> class with optional parameters for customizing the color wheel.
 </td>
 </tr>
 <tr>
 <td width="511">
-<a href="https://www.youtube.com/watch?v=XiM1eJZzgEk">
+<a href="https://www.youtube.com/watch?v=vj-nuy82Tjw">
 BigText(int top = 3, int start_color = 0, params ConsoleColor[] colors)
 </a>
 </td>
 <td>
-Initializes a new instance of the <see cref="BigText"/> class with default and optional parameters.
+  Initializes a new instance of the <a href="#bigtext-class">BigText</a> class with default and optional parameters.
 </td>
 </tr>
 </tbody>
@@ -33,7 +33,7 @@ Initializes a new instance of the <see cref="BigText"/> class with default and o
 <tbody>
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=XiM1eJZzgEk">SetText(string[] text)</a>
+<a href="https://www.youtube.com/watch?v=vj-nuy82Tjw">SetText(string[] text)</a>
 </td>
 <td>
 Sets the main text with an array of strings.
@@ -41,7 +41,7 @@ Sets the main text with an array of strings.
 </tr>
 <tr>
 <td width="300">
-<a href="https://www.youtube.com/watch?v=XiM1eJZzgEk">Animate(params char[] outliers)</a>
+<a href="https://www.youtube.com/watch?v=vj-nuy82Tjw">Animate(params char[] outliers)</a>
 </td>
 <td width="650">
 Displays a brief animation of color wheel effects on the main text and provides support for optional outliers for a secondary color effect.
