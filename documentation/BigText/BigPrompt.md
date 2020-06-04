@@ -1,4 +1,4 @@
-namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/NAMESPACE.md">BigConsole.BigText</a>
+namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/NAMESPACE.md#bigconsole-bigtext-namespace">BigConsole.BigText</a>
 <br/><br/>
 inherits: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/BigText.md#bigtext-class">BigText</a>
 
