@@ -8,7 +8,7 @@ The <a href="#BigText">BigText</a> namespace provides classes for manipulating t
 <br/><br/>
 ![alt text](https://github.com/redrithm/BigConsole/blob/master/media/gifs/bigtext.gif)
 
-### <a id="BigRandom" href="#">BigRandom</a>
+### <a id="BigRandom" href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigRandom/NAMESPACE.md#bigconsole-bigrandom-namespace">BigRandom</a>
 The <a href="#BigRandom">BigRandom</a> namespace provides classes for generating and manipulating randomized data.
 <br/><br/>
 ![alt text](https://github.com/redrithm/BigConsole/blob/master/media/gifs/bigrandom.gif)
