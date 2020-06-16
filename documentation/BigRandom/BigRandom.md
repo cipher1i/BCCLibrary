@@ -27,7 +27,7 @@ Generates a lowercase or uppercase character at random.
 </td>
 </tr>
 <tr>
-<td width="500">
+<td width="530">
 <a href="https://www.youtube.com/watch?v=5D_e9rCvu-I">GenCharAlpha(int threshold=70, params char[] ignore)</a>
 </td>
 <td width="650">
