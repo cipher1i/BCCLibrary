@@ -1,6 +1,6 @@
 <a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigconsole">Back to README</a>
 <h1 id="bigconsole-bigrandom-namespace">BigConsole.BigRandom Namespace</h1>
-The <a href="#bigconsole-bigrandom-namespace">BigConsole.BigRandom</a> namespace provides classes for...
+The <a href="#bigconsole-bigrandom-namespace">BigConsole.BigRandom</a> namespace provides classes for generating and manipulating randomized data.
 <br/><br/>
 <h2>Classes</h2>
 <table>
