@@ -10,7 +10,7 @@ The <a href="#bigconsole-bigrandom-namespace">BigConsole.BigRandom</a> namespace
 <h4><a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigRandom/BigRandom.md#bigrandom-class">BigRandom</a></h4>
 </td>
 <td>
-Represents a randomizer engine. Includes methods for generating random lowercase/uppercase characters or strings.
+Provides the base class for a randomizer engine. Includes methods for generating random lowercase/uppercase characters or strings.
 </td>
 </tr>
 </tbody>
