@@ -1,4 +1,5 @@
-namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigtext">BigText</a>
+<a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigconsole">Back to README</a><br/><br/>
+namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/NAMESPACE.md#bigconsole-bigtext-namespace">BigConsole.BigText</a>
 <h1 id="bigtext-class">BigText Class</h1>
 Provides the base class for big text as a sequence of strings.  Provides methods for customizing and animating text color. &#x1F34E;
 
@@ -7,7 +8,7 @@ Provides the base class for big text as a sequence of strings.  Provides methods
 <tbody>
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=vj-nuy82Tjw">
+<a href="https://www.youtube.com/watch?v=5D_e9rCvu-I">
 BigText(params ConsoleColor[] colors)
 </a>
 </td>
@@ -17,7 +18,7 @@ BigText(params ConsoleColor[] colors)
 </tr>
 <tr>
 <td width="511">
-<a href="https://www.youtube.com/watch?v=vj-nuy82Tjw">
+<a href="https://www.youtube.com/watch?v=5D_e9rCvu-I">
 BigText(int top = 3, int start_color = 0, params ConsoleColor[] colors)
 </a>
 </td>
@@ -33,7 +34,7 @@ BigText(int top = 3, int start_color = 0, params ConsoleColor[] colors)
 <tbody>
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=vj-nuy82Tjw">SetText(string[] text)</a>
+<a href="https://www.youtube.com/watch?v=5D_e9rCvu-I">SetText(string[] text)</a>
 </td>
 <td>
 Sets the main text with an array of strings.
@@ -41,7 +42,7 @@ Sets the main text with an array of strings.
 </tr>
 <tr>
 <td width="300">
-<a href="https://www.youtube.com/watch?v=vj-nuy82Tjw">Animate(params char[] outliers)</a>
+<a href="https://www.youtube.com/watch?v=5D_e9rCvu-I">Animate(params char[] outliers)</a>
 </td>
 <td width="650">
 Displays a brief animation of color wheel effects on the main text and provides support for optional outliers for a secondary color effect.
