@@ -20,7 +20,7 @@ Provides the base class for a randomizer engine.<br/>Includes methods for genera
 <tbody>
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=5D_e9rCvu-I">GenCharAlpha()</a>
+<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">GenCharAlpha()</a>
 </td>
 <td>
 Generates a lowercase or uppercase character at random.
@@ -28,7 +28,7 @@ Generates a lowercase or uppercase character at random.
 </tr>
 <tr>
 <td width="530">
-<a href="https://www.youtube.com/watch?v=5D_e9rCvu-I">GenCharAlpha(int threshold=70, params char[] ignore)</a>
+<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">GenCharAlpha(int threshold=70, params char[] ignore)</a>
 </td>
 <td width="650">
 Generates a lowercase or uppercase character at random with options to ignore a select list of characters and to set the percent threshold for this operation.</td>
