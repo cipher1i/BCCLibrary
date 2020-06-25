@@ -1,6 +1,6 @@
-<a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigconsole">Back to README</a><br/><br/>
-namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/NAMESPACE.md#bigtext-namespace">BigText</a>
-<h1 id="bigtext-class">BigText Class</h1>
+<a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigconsole">🏠</a><br/><br/>
+namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/README.md#bigtext-namespace">BigText</a>
+<h1 id="text-class">Text Class</h1>
 Provides the base class for big text as a sequence of strings.  Provides methods for customizing and animating text color. &#x1F34E;
 
 <h2>Constructors</h2>
@@ -9,21 +9,21 @@ Provides the base class for big text as a sequence of strings.  Provides methods
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">
-BigText(string[] text, params ConsoleColor[] colorwheel)
+Text(string[] text, params ConsoleColor[] colorwheel)
 </a>
 </td>
 <td>
-  Initializes a new instance of the <a href="#bigtext-class">BigText</a> class and sets the text content. Includes optional parameters for customizing the color wheel.
+  Initializes a new instance of the <a href="#text-class">Text</a> class and sets the text content. Includes optional parameters for customizing the color wheel.
 </td>
 </tr>
 <tr>
 <td width="592">
 <a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">
-BigText(int alignment = 3, int start_color = 0, params ConsoleColor[] colorwheel)
+Text(int alignment = 3, int start_color = 0, params ConsoleColor[] colorwheel)
 </a>
 </td>
 <td>
-  Initializes a new instance of the <a href="#bigtext-class">BigText</a> class with default and optional parameters.
+  Initializes a new instance of the <a href="#text-class">Text</a> class with default and optional parameters.
 </td>
 </tr>
 </tbody>
@@ -37,7 +37,7 @@ BigText(int alignment = 3, int start_color = 0, params ConsoleColor[] colorwheel
 <a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">SetText(string[] text)</a>
 </td>
 <td>
-  Sets the <a href="#bigtext-class">BigText</a> content.
+  Sets the <a href="#text-class">Text</a> content.
 </td>
 </tr>
 <tr>
