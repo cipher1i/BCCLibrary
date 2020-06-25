@@ -1,6 +1,6 @@
 <a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigconsole">Back to README</a>
-<h1 id="bigconsole-bigtext-namespace">BigConsole.BigText Namespace</h1>
-The <a href="#bigconsole-bigtext-namespace">BigConsole.BigText</a> namespace provides classes for manipulating text in a console environment.
+<h1 id="bigtext-namespace">BigText Namespace</h1>
+The <a href="#bigtext-namespace">BigText</a> namespace provides classes for manipulating text in a console environment.
 <br/><br/>
 <h2>Classes</h2>
 <table>
