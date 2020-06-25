@@ -9,17 +9,17 @@ Provides the base class for big text as a sequence of strings.  Provides methods
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">
-BigText(params ConsoleColor[] colors)
+BigText(string[] text, params ConsoleColor[] colorwheel)
 </a>
 </td>
 <td>
-  Initializes a new instance of the <a href="#bigtext-class">BigText</a> class with optional parameters for customizing the color wheel.
+  Initializes a new instance of the <a href="#bigtext-class">BigText</a> class and sets the text content. Includes optional parameters for customizing the color wheel.
 </td>
 </tr>
 <tr>
-<td width="511">
+<td width="592">
 <a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">
-BigText(int top = 3, int start_color = 0, params ConsoleColor[] colors)
+BigText(int alignment = 3, int start_color = 0, params ConsoleColor[] colorwheel)
 </a>
 </td>
 <td>
@@ -37,7 +37,7 @@ BigText(int top = 3, int start_color = 0, params ConsoleColor[] colors)
 <a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">SetText(string[] text)</a>
 </td>
 <td>
-Sets the main text with an array of strings.
+  Sets the <a href="#bigtext-class">BigText</a> content.
 </td>
 </tr>
 <tr>
