@@ -28,8 +28,8 @@ Initializes a new instance of the <a href="#bigprompt-class">BigPrompt</a> class
 <table>
 <tbody>
 <tr>
-<td width="460">
-<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">SetPosition(byte element, byte justify, short align, short bias)</a>
+<td width="489">
+<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">SetPosition(byte element, byte justify, short alignment, short bias)</a>
 </td>
 <td>
 Sets the desired position of specified prompt element (header or message).
