@@ -1,9 +1,9 @@
-<a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigconsole">Back to README</a><br/><br/>
-namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/NAMESPACE.md#bigconsole-bigtext-namespace">BigConsole.BigText</a>
+<a href="https://github.com/redrithm/BigConsole/blob/master/README.md#bigconsole">🏠</a><br/><br/>
+namespace: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/README.md#bigtext-namespace">BigText</a>
 <br/><br/>
-inherits: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/BigText.md#bigtext-class">BigText</a>
+inherits: <a href="https://github.com/redrithm/BigConsole/blob/master/documentation/BigText/Text.md#text-class">Text</a>
 
-<h1 id="bigprompt-class">BigPrompt Class</h1>
+<h1 id="prompt-class">Prompt Class</h1>
 Represents a prompt separated by header and message.  Includes methods for synchronous animation. &#x1F34E;
 
 <h2>Constructors</h2>
@@ -12,13 +12,13 @@ Represents a prompt separated by header and message.  Includes methods for synch
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">
-BigPrompt(string header="This is a Header", string message="Message goes here.", params ConsoleColor[] colorwheel)
+Prompt(string header="This is a Header", string message="Message goes here.", params ConsoleColor[] colorwheel)
 </a>
 </td>
 </tr>
 <tr>
 <td>
-Initializes a new instance of the <a href="#bigprompt-class">BigPrompt</a> class with default and optional parameters.
+Initializes a new instance of the <a href="#prompt-class">Prompt</a> class with default and optional parameters.
 </td>
 </tr>
 </tbody>
