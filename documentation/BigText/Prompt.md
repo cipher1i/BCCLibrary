@@ -11,7 +11,7 @@ Represents a prompt separated by header and message.  Includes methods for synch
 <tbody>
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">
+<a href="#">
 Prompt(string header="This is a Header", string message="Message goes here.", params ConsoleColor[] colorwheel)
 </a>
 </td>
@@ -29,7 +29,7 @@ Initializes a new instance of the <a href="#prompt-class">Prompt</a> class with 
 <tbody>
 <tr>
 <td width="489">
-<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">SetPosition(byte element, byte justify, short alignment, short bias)</a>
+<a href="#">SetPosition(byte element, byte justify, short alignment, short bias)</a>
 </td>
 <td>
 Sets the desired position of specified prompt element (header or message).
@@ -37,7 +37,7 @@ Sets the desired position of specified prompt element (header or message).
 </tr>
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">Runner()</a>
+<a href="#">Runner()</a>
 </td>
 <td>
 Runs prompt animation and waits for enter key press.
