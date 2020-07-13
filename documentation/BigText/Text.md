@@ -8,7 +8,7 @@ Provides the base class for big text as a sequence of strings.  Provides methods
 <tbody>
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">
+<a href="#">
 Text(string[] text, params ConsoleColor[] colorwheel)
 </a>
 </td>
@@ -18,7 +18,7 @@ Text(string[] text, params ConsoleColor[] colorwheel)
 </tr>
 <tr>
 <td width="592">
-<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">
+<a href="#">
 Text(int alignment = 3, int start_color = 0, params ConsoleColor[] colorwheel)
 </a>
 </td>
@@ -34,7 +34,7 @@ Text(int alignment = 3, int start_color = 0, params ConsoleColor[] colorwheel)
 <tbody>
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">SetText(string[] text)</a>
+<a href="#">SetText(string[] text)</a>
 </td>
 <td>
   Sets the <a href="#text-class">Text</a> content.
@@ -42,7 +42,7 @@ Text(int alignment = 3, int start_color = 0, params ConsoleColor[] colorwheel)
 </tr>
 <tr>
 <td width="300">
-<a href="https://www.youtube.com/watch?v=NZcZh4jIwD4">Animate(params char[] outliers)</a>
+<a href="#">Animate(params char[] outliers)</a>
 </td>
 <td width="650">
 Displays a brief animation of color wheel effects on the main text and provides support for optional outliers for a secondary color effect.
