@@ -1,7 +1,7 @@
-<a href="https://github.com/cipher-1i/BigConsole/blob/master/README.md#bigconsole">🏠</a><br/><br/>
-namespace: <a href="https://github.com/cipher-1i/BigConsole/blob/master/documentation/BigText/README.md#bigtext-namespace">BigText</a>
+<a href="https://github.com/cipher-1i/BCCLibrary/blob/master/README.md#bigconsole">🏠</a><br/><br/>
+namespace: <a href="https://github.com/cipher-1i/BCCLibrary/blob/master/documentation/BigText/README.md#bigtext-namespace">BigText</a>
 <br/><br/>
-inherits: <a href="https://github.com/cipher-1i/BigConsole/blob/master/documentation/BigText/Text.md#text-class">Text</a>
+inherits: <a href="https://github.com/cipher-1i/BCCLibrary/blob/master/documentation/BigText/Text.md#text-class">Text</a>
 
 <h1 id="prompt-class">Prompt Class</h1>
 Represents a prompt separated by header and message.  Includes methods for synchronous animation. &#x1F34E;
