@@ -1,5 +1,5 @@
-<a href="https://github.com/cipher-1i/BigConsole/blob/master/README.md#bigconsole">🏠</a><br/><br/>
-namespace: <a href="https://github.com/cipher-1i/BigConsole/blob/master/documentation/BigText/README.md#bigtext-namespace">BigText</a>
+<a href="https://github.com/cipher-1i/BCCLibrary/blob/master/README.md#bigconsole">🏠</a><br/><br/>
+namespace: <a href="https://github.com/cipher-1i/BCCLibrary/blob/master/documentation/BigText/README.md#bigtext-namespace">BigText</a>
 <h1 id="text-class">Text Class</h1>
 Provides the base class for big text as a sequence of strings.  Provides methods for customizing and animating text color. &#x1F34E;
 
