@@ -1,5 +1,5 @@
-<a href="https://github.com/cipher-1i/BigConsole/blob/master/README.md#bigconsole">🏠</a><br/><br/>
-namespace: <a href="https://github.com/cipher-1i/BigConsole/blob/master/documentation/BigRandom/README.md#bigrandom-namespace">BigRandom</a>
+<a href="https://github.com/cipher-1i/BCCLibrary/blob/master/README.md#bigconsole">🏠</a><br/><br/>
+namespace: <a href="https://github.com/cipher-1i/BCCLibrary/blob/master/documentation/BigRandom/README.md#bigrandom-namespace">BigRandom</a>
 <h1 id="rand-class">Rand Class</h1>
 Provides the base class for a randomizer engine.<br/>Includes methods for generating random lowercase/uppercase characters or strings. &#x1F34E;
 
