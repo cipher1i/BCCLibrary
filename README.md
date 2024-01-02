@@ -3,7 +3,7 @@
 
 ## Namespaces
 ### <a id="BigText" href="https://github.com/cipher-1i/BCCLibrary/blob/master/documentation/BigText/README.md#bigtext-namespace">BigText</a>
-The <a href="#BigText">BigText</a> namespace provides classes for manipulating text in a console environment.
+<a href="#BigText">BigText</a> namespace provides classes for manipulating text in a console environment.
 <br/><br/>
 ![alt text](https://github.com/cipher-1i/BCCLibrary/blob/master/media/gifs/bigtext.gif)
 
